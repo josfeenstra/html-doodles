@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "rootDir": "src",
+        "outDir": "public",
+        "target": "es6",
+        "noEmitOnError": false,
+    }
+}
